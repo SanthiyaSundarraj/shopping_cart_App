@@ -1,6 +1,6 @@
 # React-Native ShoppingCart + Firebase
 
-Developing a **Shopping cart (Ecommerse) Application using React-Native**
+Developing a **Shopping cart (Ecommerce) Application using React-Native**
 
 ## Functionalities
 
